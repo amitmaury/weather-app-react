@@ -1,12 +1,12 @@
-# Founder & Lighting Weather App
-This is an app desbrie the wethere acrooss all cities.
+# Founder & Lighting Weather App- Amit Maurya
+This is an app describe the weather acrooss all cities.
 
 # Pre-requisite
 node, npm, git
 
 # Set-up
-1. git clone <shared_url>
-2. git checkout <master>
+1. git clone <shared_url> <https://github.com/amitmaury/weather-app-react>
+2. git checkout <brahc_name> <master> 
 3. git pull
 4. npm install
 5. npm run build
@@ -20,8 +20,8 @@ REACT_APP_GEOLOCATION_API_KEY = "AIzaSyDg4G5d5rN_CZbJntU3xUGMQ6mZI1cQ-z8"
 
 It will start at http://localhost:3000/
 
-
-# Main Libraries, tech stack USed
+Once done you will be able to see running app
+# Main Libraries, tech stack Used
 React,
 Axios
 Typescript,
